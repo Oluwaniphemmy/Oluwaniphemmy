@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Oluwaniphemmy
-- 👀 I’m interested in ...web development
+- 👀 I’m interested in front end web development 
 - 🌱 I’m currently learning ...html,css , JavaScript
-- 💞️ I’m looking to collaborate on ... building responsive websites
+- 💞️ I’m looking to collaborate on ... building responsive websites and mobile apps 
 - 📫 How to reach me ...
 
 <!---
